@@ -1,0 +1,12 @@
+eventarc-civic-dispatcher/
+├── package.json
+├── tsconfig.json
+├── .env.example
+└── src/
+    ├── index.ts
+    ├── config/
+    │   └── firebase.ts
+    ├── schemas/
+    │   └── intake.schema.ts
+    └── services/
+        └── dispatcher.service.ts
